@@ -5,6 +5,7 @@
 * [C++](#c++)
 * [HTML/CSS](#html/css)
 * [Java](#java)
+* [PHP](#php)
 * [Python](#python)
 * [JavaScript](#javascript)
 * [R](#r)

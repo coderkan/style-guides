@@ -35,7 +35,6 @@
 1. [Applied Informatics](https://www.appinf.com/download/CppCodingStyleGuide.pdf)
 1. [style-guides C++ Style Guide](https://style-guides.readthedocs.io/en/latest/cpp.html)
 1. [WebKit Code Style Guide](https://webkit.org/code-style-guidelines/)
-1. []()
 
 # HTML/CSS
 
@@ -76,6 +75,24 @@
 1. [William Boles - Objective-C Coding Style](https://williamboles.me/objective-c-coding-style/)
 1. [raywenderlich Objective-C Coding Style](https://github.com/raywenderlich/objective-c-style-guide)
 1. [NYTimes - Objective-C Coding Style](https://github.com/NYTimes/objective-c-style-guide)
+
+# PHP
+
+1. [PHP-FIG main web page](https://www.php-fig.org/)
+1. [PSR-1 Basic Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
+1. [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
+1. [Paysera Github Page](https://github.com/paysera/php-style-guide)
+1. [Heiswayi Github Page](https://gist.github.com/heiswayi/d93744aadd0acc5aa58f)
+1. [Code Igniter](https://www.codeigniter.com/user_guide/general/styleguide.html)
+1. [MIT Sloan School of Management PHP Code Style Guide](https://mitsloan.mit.edu/shared/content/PHP_Code_Style_Guide.php)
+1. [Php The Right Way](https://phptherightway.com/)
+1. [5-php-coding-standards-you-will-love-and-how-to-use-them](https://blog.sideci.com/5-php-coding-standards-you-will-love-and-how-to-use-them-adf6a4855696)
+1. [Engineering HandBook](https://engineering.hmn.md/standards/style/php/)
+1. [Modern PHP Coding Style Guide](https://flaviocopes.com/php-code-style/)
+1. [Magento PHP Coding Standard](https://devdocs.magento.com/guides/v2.3/coding-standards/code-standard-php.html)
+1. [Laravel & PHP Coding Style Guide](https://guidelines.spatie.be/code-style/laravel-php)
+1. [Pear Coding Standards](https://pear.php.net/manual/en/standards.php)
+1. [Moodle Coding Standard](https://docs.moodle.org/dev/Coding_style)
 
 # Python
 

@@ -9,6 +9,7 @@
 * [Python](#python)
 * [JavaScript](#javascript)
 * [R](#r)
+* [Ruby](#ruby)
 * [Shell](#shell)
 * [Objective-C](#objective-c)
 * [Swift](#swift)
@@ -107,6 +108,16 @@
 # R
 
 1. [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+
+# Ruby
+1. [The Ruby Style Guide](https://rubystyle.guide/)
+1. [AirBnB Ruby Style Guide](https://github.com/airbnb/ruby)
+1. [Rubocop  Ruby Style Guide](https://github.com/github/rubocop-github/blob/master/STYLEGUIDE.md)
+1. [Shopify Ruby Style Guide](https://shopify.github.io/ruby-style-guide/)
+1. [W3Resource Ruby Style Guide](https://www.w3resource.com/ruby/ruby-style-guide.php)
+1. [Relaxed Ruby Style Guide](https://relaxed.ruby.style/)
+1. [Relishapp Ruby Style Guide](https://relishapp.com/womply/ruby-style-guide/docs)
+1. [VikingCodeSchool Ruby Style Guide](https://www.vikingcodeschool.com/professional-development-with-ruby/ruby-style-guide)
 
 # Shell
 

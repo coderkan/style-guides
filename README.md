@@ -6,12 +6,12 @@
 * [HTML/CSS](#html/css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Objective-C](#objective-c)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
 * [Shell](#shell)
-* [Objective-C](#objective-c)
 * [Swift](#swift)
 
 # C
@@ -122,3 +122,5 @@
 # Shell
 
 1. [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+
+# Swift

@@ -75,7 +75,7 @@
 
 # Matlab
 
-1.[Matlab Central - Matlab Style Guide Cheat Sheet](
+1. [Matlab Central - Matlab Style Guide Cheat Sheet](
 https://ch.mathworks.com/matlabcentral/fileexchange/45047-matlab-style-guidelines-cheat-sheet?focused=bb5d423a-49d8-424e-a4d8-794869ba858e&tab=example
 )
 1. [Columbia Edu - Matlab Style Guide](https://www.ee.columbia.edu/~marios/matlab/MatlabStyle1p5.pdf

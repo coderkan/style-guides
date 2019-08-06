@@ -123,6 +123,13 @@ https://ch.mathworks.com/matlabcentral/fileexchange/45047-matlab-style-guideline
 # R
 
 1. [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+1. [Jef Works R Style Guide](https://jef.works/R-style-guide/)
+1. [Advanced R - R Style Guide](http://adv-r.had.co.nz/Style.html)
+1. [R Bloggers - R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/)
+1. [Cran R Project - R Style](https://cran.r-project.org/web/packages/rockchalk/vignettes/Rstyle.pdf)
+1. [R style guide for ZOL851](https://msu.edu/~idworkin/ZOL851_style_guide.html)
+1. [rdatsci Github Page - R Style Guide](https://github.com/rdatsci/PackagesInfo/wiki/R-Style-Guide)
+1. [RStudio Pubs - R Style Guide](https://rstudio-pubs-static.s3.amazonaws.com/149679_0f07bbb45e5c4f3887d64c0152e0b747.html#/)
 
 # Ruby
 1. [The Ruby Style Guide](https://rubystyle.guide/)

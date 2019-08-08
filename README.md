@@ -13,6 +13,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Shell](#shell)
+* [SQL](#sql)
 * [Swift](#swift)
 
 # C
@@ -144,5 +145,13 @@ https://ch.mathworks.com/matlabcentral/fileexchange/45047-matlab-style-guideline
 # Shell
 
 1. [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+
+# SQL
+
+1. [Simon Holywel - SQL Style Guide](https://www.sqlstyle.guide/)
+1. [GitLab SQL Style Guide](https://about.gitlab.com/handbook/business-ops/data-team/sql-style-guide/)
+1. [Kickstarter SQL Style Guide](https://gist.github.com/fredbenenson/7bb92718e19138c20591)
+1. [Oracle SQL & PL/SQL Style Guide](https://oracle.readthedocs.io/en/latest/sql/basics/style-guide.html)
+1. [Mozilla - SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style.html)
 
 # Swift
